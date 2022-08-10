@@ -1,2 +1,3 @@
 List of props:
 applicationAuthor=Bozenka2000
+lastUpdateTimestamp=10 Aug 2022 15:25
